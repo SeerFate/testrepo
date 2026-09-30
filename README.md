@@ -4,9 +4,15 @@ Small Windows app that answers one question: can this PC call `https://api.sms.i
 
 The API notes are in [docs/sms-ir-api.md](docs/sms-ir-api.md).
 
+## Download
+
+The built Windows program is on the GitHub release:
+
+[SmsIrCheck.exe](https://github.com/SeerFate/testrepo/releases/latest/download/SmsIrCheck.exe)
+
 ## Run the window
 
-Double-click:
+Double-click `SmsIrCheck.exe`. From a clone, that file is:
 
 ```text
 publish\SmsIrCheck.exe
